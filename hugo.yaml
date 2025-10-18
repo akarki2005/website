@@ -1,0 +1,27 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Aayush Karki
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hi there, I'm Aayush. \U0001F44B"
+    Content: >-
+      Welcome to my website.      
+  socialIcons:
+    - name: github
+      url: 'https://github.com/akarki2005'
+    - name: linkedin
+      url: 'https://linkedin.com/in/aayushkarki05'
+
+menu:
+  main:
+    - name: about
+      url: /about/
+      weight: 1
+    - name: projects
+      url: /projects/
+      weight: 2
+    - name: blog
+      url: /blog/
+      weight: 3
