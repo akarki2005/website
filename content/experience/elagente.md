@@ -1,0 +1,17 @@
+---
+title: "AI Researcher @ The Matter Lab"
+draft: false
+weight: 2
+tags: ["AI", "LLMs", "Python", "LangChain"]
+summary: "Improving an AI agent designed to democratize quantum chemistry workflows."
+---
+
+Under supervision of Professor Alan Aspuru-Guzik, I worked as an AI Researcher at The Matter Lab over the summer of 2025.
+
+My work focused on the *El Agente* project, an AI agent framework developed for use in the automation and democratization of quantum chemistry workflows.
+
+Through this role, I developed proficiency with agent-based systems and LLM-fine tuning. The work I completed strengthened my skills with Python and LangChain, and through the exploration of schema validation for agent output, I reduced LLM hallucination by close to 30% across the board.
+
+You can learn more about *El Agente* using the link below:
+
+[El Agente](https://elagente.ca/)

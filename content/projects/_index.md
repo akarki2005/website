@@ -4,4 +4,4 @@ url: "/projects/"
 summary: "projects"
 ---
 
-Things I've built.
+Things I've built in my free time. [coming soon]

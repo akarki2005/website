@@ -3,11 +3,15 @@ languageCode: en-us
 title: Aayush Karki
 theme: PaperMod
 
+mainSections: []
+
 params:
   homeInfoParams:
-    Title: "Hi there, I'm Aayush. \U0001F44B"
-    Content: >-
-      Welcome to my website.      
+    Title: "Hi there, I'm Aayush. 👋"
+    Content: |
+      Welcome to my website! 
+      Here, you can explore my [experience](/experience/) and [projects](/projects/) to see what I've built,
+      read my [thoughts](/blog/) on systems and software, or learn more [about me](/about/)!
   socialIcons:
     - name: github
       url: 'https://github.com/akarki2005'
@@ -19,9 +23,12 @@ menu:
     - name: about
       url: /about/
       weight: 1
+    - name: experience
+      url: /experience/
+      weight: 2
     - name: projects
       url: /projects/
-      weight: 2
+      weight: 3
     - name: blog
       url: /blog/
-      weight: 3
+      weight: 4
