@@ -2,6 +2,7 @@ baseURL: https://akarki2005.github.io/website/
 languageCode: en-us
 title: Aayush Karki
 theme: PaperMod
+canonifyURLs: true
 
 mainSections: []
 
@@ -11,8 +12,8 @@ params:
     Title: "Hi there, I'm Aayush. 👋"
     Content: |
       Welcome to my website! 
-      Here, you can explore my [experience](experience/) and [projects](projects/) to see what I've built,
-      read my [thoughts](blog/) on systems and software, or learn more [about me](about/)! 
+      Here, you can explore my [experience](/experience/) and [projects](/projects/) to see what I've built,
+      read my [thoughts](/blog/) on systems and software, or learn more [about me](/about/)! 
   socialIcons:
     - name: github
       url: 'https://github.com/akarki2005'
