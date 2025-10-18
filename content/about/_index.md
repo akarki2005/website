@@ -4,7 +4,7 @@ url: "/about/"
 summary: "about"
 ---
 
-I'm a third-year Computer Science student at UofT, specializing in computer systems. Passionate about reliable and maintainable systems and building with scalability in mind.
+I'm a third-year Computer Science student at UofT, specializing in computer systems. I'm passionate about reliable and maintainable systems, and building with scalability in mind.
 
 Outside of work, I love being active! You can often find me at the gym, going for long runs/bike rides, or playing sports.
 
