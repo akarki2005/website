@@ -18,6 +18,6 @@ Some of my notable PRs include:
 - [Modifying the CI config to emit test coverage reports](https://github.com/Courseography/courseography/pull/1584)
 - [Refactoring the navbar to use React client-side rendering](https://github.com/Courseography/courseography/pull/1571)
 
-Check out the repository using the link below!
+Check out the official site using the link below!
 
-[Courseography](https://github.com/Courseography/courseography)
+[Courseography](https://courseography.cdf.toronto.edu/graph)

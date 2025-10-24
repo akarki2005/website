@@ -10,9 +10,9 @@ params:
   homeInfoParams:
     Title: "Hi there, I'm Aayush. 👋"
     Content: |
-      Welcome to my website! 
-      Here, you can explore my experience and projects to see what I've built,
-      read about my thoughts on systems and software, or learn more about me! 
+      Welcome to my website! Here, you can explore my past experience and projects, read my blog posts, 
+      or learn more about me! If you'd like to reach out, email me at akarki2005@gmail.com.
+
   socialIcons:
     - name: github
       url: 'https://github.com/akarki2005'

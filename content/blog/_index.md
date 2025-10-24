@@ -4,4 +4,4 @@ url: "/blog/"
 summary: "blog"
 ---
 
-Some of my thoughts. [coming soon]
+Things I've said.
