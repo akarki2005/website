@@ -1,5 +1,5 @@
 ---
-title: "AI Research Intern @ The Matter Lab"
+title: "AI Researcher @ The Matter Lab"
 draft: false
 weight: 2
 tags: ["AI", "LLMs", "Python", "LangChain"]
