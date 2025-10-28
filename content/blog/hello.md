@@ -3,7 +3,7 @@ title: "Hello, World"
 draft: false
 weight: 2
 date: 2025-10-25
-tags: []
+tags: ["Bash", "Python", "Java", "JavaScript", "SQL", "Haskell", "Go", "C", "Rust"]
 summary: "A little intro on what this blog is all about."
 ---
 
