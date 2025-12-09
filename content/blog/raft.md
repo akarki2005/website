@@ -1,7 +1,7 @@
 ---
 title: "My Understanding of the Raft Consensus Algorithm"
 draft: false
-weight: 1
+weight: 2
 date: 2025-10-26
 tags: ["Consensus Algorithms", "Reliability", "Fault Tolerance", "CAP Theorem", "Distributed Systems"]
 summary: "Some learnings from reading distributed systems theory."

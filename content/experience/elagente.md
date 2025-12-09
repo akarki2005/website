@@ -1,7 +1,7 @@
 ---
-title: "AI Researcher @ The Matter Lab"
+title: "AI Research Intern @ The Matter Lab"
 draft: false
-weight: 2
+weight: 3
 tags: ["AI", "LLMs", "Python", "LangChain"]
 summary: "Improving an AI agent designed to democratize quantum chemistry workflows."
 ---
