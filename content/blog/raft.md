@@ -23,7 +23,7 @@ One notable design pattern for implementing replication is the Raft Consensus Al
 
 ### How Raft Works
 
-under construction 🚧
+under construction 🚧 (will be finished once [this](https://en.wikipedia.org/wiki/Line_5_Eglinton) is finished)
 
 ### Other Approaches
 

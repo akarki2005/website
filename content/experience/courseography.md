@@ -15,7 +15,7 @@ In this role, I participated in weekly Agile team standups, collaborated with te
 Some of my notable PRs include:
 
 - [Refactoring the backend into a MVC architecture](https://github.com/Courseography/courseography/pull/1604)
-- [Modifying the CI config to emit test coverage reports](https://github.com/Courseography/courseography/pull/1584)
+- [Modifying the CI config to reduce tail-end build latency](https://github.com/Courseography/courseography/pull/1625)
 - [Refactoring the navbar to use React client-side rendering](https://github.com/Courseography/courseography/pull/1571)
 
 Check out the official site using the link below!
