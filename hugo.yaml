@@ -1,6 +1,6 @@
 baseURL: https://aayushkarki.com
 languageCode: en-us
-title: Aayush Karki
+title: aayush karki
 theme: PaperMod
 
 mainSections: []
@@ -8,7 +8,7 @@ mainSections: []
 params:
   defaultTheme: light
   homeInfoParams:
-    Title: "Hi there, I'm Aayush. 👋"
+    Title: "hi there, i'm aayush. 👋"
     Content: |
       Welcome to my website! Here, you can explore my past experience and projects, read my blog posts, 
       or learn more about me! If you'd like to reach out, email me at akarki2005@gmail.com.
