@@ -1,5 +1,5 @@
 ---
-title: "Software Developer Intern @ UofT"
+title: "software developer intern @ uoft"
 draft: false
 weight: 1
 tags: ["Haskell", "SQL", "React", "JavaScript", "Git"]

@@ -1,9 +1,9 @@
 ---
-title: "Software Developer Co-op @ CIBC"
+title: "software developer co-op @ cibc"
 draft: false
 weight: 1
 tags: []
-summary: "Developing backend APIs for contact centre microservices."
+summary: "Developing backend APIs to support client-facing microservices."
 ---
 
-Check back in Spring 2026 for more details.
+Check back in spring/summer 2026 for more details.
