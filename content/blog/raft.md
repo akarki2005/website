@@ -1,13 +1,13 @@
 ---
-title: "My Understanding of the Raft Consensus Algorithm"
+title: "boats and consensus algorithms"
 draft: false
-weight: 2
+weight: 99
 date: 2025-10-26
 tags: ["Consensus Algorithms", "Reliability", "Fault Tolerance", "CAP Theorem", "Distributed Systems"]
 summary: "Some learnings from reading distributed systems theory."
 ---
 
-### Introduction
+### introduction
 
 Recently, I decided to dive into learning distributed systems with the implementation of a key-value store. No longer were buzzwords like reliability, scalability and maintainability gonna scare me! Or so I thought.
 
@@ -21,11 +21,11 @@ In designing distributed systems, distribution strategies can take on one of two
 
 One notable design pattern for implementing replication is the Raft Consensus Algorithm, described in [this paper](https://raft.github.io/raft.pdf). It solves a fundamental problem with replication: how can you keep multiple copies of the same data consistent with one another when networks are unreliable and servers crash randomly?
 
-### How Raft Works
+### how raft works
 
 under construction 🚧 (will be finished once [this](https://en.wikipedia.org/wiki/Line_5_Eglinton) is finished)
 
-### Other Approaches
+### other approaches
 
 Although it is great at what it does, Raft isn't the only approach to replication. It is one of many approaches which prioritizes *consistency*, where all nodes must agree on the exact same data, even if that means becoming unavailable for a short time while discrepancies are rectified. 
 

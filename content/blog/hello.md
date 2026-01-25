@@ -1,7 +1,7 @@
 ---
-title: "Hello, World"
+title: "hello, world"
 draft: false
-weight: 3
+weight: 100
 date: 2025-10-25
 tags: ["Bash", "Python", "Java", "JavaScript", "SQL", "Haskell", "Go", "C", "Rust"]
 summary: "A little intro on what this blog is all about."
