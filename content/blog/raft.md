@@ -19,7 +19,7 @@ Redundancy!
 
 In designing distributed systems, distribution strategies can take on one of two key forms: replication or partitioning/sharding. The latter is usually implemented to facilitate system scalability; it involves splitting your data horizontally, across multiple servers. Great for storing large amounts of data; not so great for adding system redundancy. What we want for that goal is the former approach, replication, where we maintain copies of data across nodes so that a crash does not lead to total system failure.
 
-One notable design pattern for implementing replication is the Raft Consensus Algorithm, described in this paper. It solves a fundamental problem with replication: how can you keep multiple copies of the same data consistent with one another when networks are unreliable and servers crash randomly?
+One notable design pattern for implementing replication is the Raft Consensus Algorithm, described in [this paper](https://raft.github.io/raft.pdf). It solves a fundamental problem with replication: how can you keep multiple copies of the same data consistent with one another when networks are unreliable and servers crash randomly?
 
 ### how raft works
 
