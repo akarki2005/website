@@ -19,10 +19,6 @@ params:
     - name: linkedin
       url: 'https://linkedin.com/in/aayushkarki05'
 
-  author:
-    name: aayush karki
-    email: akarki2005@gmail.com
-
 menu:
   main:
     - name: about
