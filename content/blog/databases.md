@@ -112,4 +112,4 @@ LSM trees assume a world where data arrives continuously and systems are willing
 
 Modern distributed systems often look much more like data ingestion pipelines than traditional databases. Logs, metrics, events, and telemetry arrive constantly and get reorganized in the background.
 
-Under that workload, optimizing the write path tends to be desirable. But under more traditional workloads, the fat tree still sings.
+Under that workload, optimizing the write path tends to be desirable. But under more traditional workloads, it isn't over until the fat tree sings.
