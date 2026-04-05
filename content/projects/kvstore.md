@@ -1,14 +1,19 @@
 ---
-title: "distributed key-value store"
+title: "lsm storage engine"
 draft: false
 weight: 1
-tags: ["Go", "Databases", "Distributed Systems", "Networking", "Concurrency"]
-summary: "Building a key-value store from the ground up so I can stop failing system design interviews."
+tags: ["Go", "Storage Systems", "Databases", "Systems"]
+summary: "Building a write-optimized storage engine from first principles to understand how real databases handle durability and performance."
 ---
 
-A distributed key-value store built from scratch in Go. 
-Features TCP networking, write-ahead logging, snapshot compaction, 
-leader-follower replication, and transactions. Built to deeply understand 
-distributed systems concepts like consensus, durability, and replication.
+A write-optimized LSM-tree storage engine built from scratch in Go.
 
-[Github](https://github.com/akarki2005/kvstore)
+Implements core database internals including a write-ahead log, 
+in-memory memtables, immutable SSTables, and compaction. Designed for high 
+write throughput and crash-safe durability, with tombstone-based deletes 
+and an efficient on-disk data layout.
+
+Built to understand how real systems like embedded key-value stores manage 
+persistence, recovery, and performance under write-heavy workloads.
+
+[Github](https://github.com/akarki2005/lsm-engine)
