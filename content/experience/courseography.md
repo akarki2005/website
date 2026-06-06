@@ -1,14 +1,14 @@
 ---
-title: "software developer intern @ uoft"
+title: "software developer intern @ uoft (courseography)"
 draft: false
-weight: 1
+weight: 3
 tags: ["Haskell", "SQL", "React", "JavaScript", "Git"]
 summary: "Developing a web tool to help UofT undergrads visualize course prerequisites."
 ---
 
 Under supervision of Professor David Liu, I worked as an open-source software developer on the Students Developing Software team from May through December 2025.
 
-I worked specifically on *Courseography*, a web tool used by 1000+ undergraduate students each year to visualize course prerequisites and plan their degrees.
+I worked specifically on *Courseography*, a web tool used by 3900+ undergraduate students each year to visualize course prerequisites and plan their degrees.
 
 In this role, I participated in weekly Agile team standups, collaborated with team members in git-based workflows, and worked across the stack to build new features and maintain the integrity of the existing codebase.
 
