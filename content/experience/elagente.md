@@ -1,7 +1,7 @@
 ---
 title: "ai research intern @ the matter lab"
 draft: false
-weight: 3
+weight: 4
 tags: ["AI", "LLMs", "Python", "LangChain"]
 summary: "Finetuning an AI agent framework designed to democratize quantum chemistry workflows."
 ---
