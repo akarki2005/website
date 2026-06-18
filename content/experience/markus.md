@@ -1,7 +1,7 @@
 ---
-title: "software developer intern @ uoft"
+title: "software developer @ uoft"
 draft: false
-weight: 1
+weight: 2
 tags: ["Ruby", "React", "Redis", "PostgreSQL", "Docker"]
 summary: "Contributing to an open-source grading platform used across multiple universities."
 ---

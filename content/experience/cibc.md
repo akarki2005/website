@@ -1,7 +1,7 @@
 ---
-title: "software developer co-op @ cibc"
+title: "software developer intern @ cibc"
 draft: false
-weight: 2
+weight: 3
 tags: ["Java", "Spring Boot", "Azure", "REST APIs"]
 summary: "Developing backend APIs to support client-facing microservices."
 ---

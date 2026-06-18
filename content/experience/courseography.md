@@ -1,7 +1,7 @@
 ---
-title: "software developer intern @ uoft"
+title: "software developer @ uoft"
 draft: false
-weight: 3
+weight: 4
 tags: ["Haskell", "SQL", "React", "JavaScript", "Git"]
 summary: "Developing a web tool to help UofT undergrads visualize course prerequisites."
 ---
