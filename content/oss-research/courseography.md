@@ -1,5 +1,5 @@
 ---
-title: "software developer @ uoft"
+title: "courseography"
 draft: false
 weight: 4
 tags: ["Haskell", "SQL", "React", "JavaScript", "Git"]

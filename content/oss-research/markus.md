@@ -1,9 +1,9 @@
 ---
-title: "software developer @ uoft"
+title: "markus"
 draft: false
 weight: 2
 tags: ["Ruby", "React", "Redis", "PostgreSQL", "Docker"]
-summary: "Contributing to an open-source grading platform used across multiple universities."
+summary: "Contributing to a grading platform used across multiple top Canadian universities."
 ---
 Starting in May 2026, I'm working as an open-source software developer on the Students Developing Software team at UofT, this time on *MarkUs*.
 

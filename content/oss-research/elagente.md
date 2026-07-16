@@ -1,12 +1,12 @@
 ---
-title: "ai research @ the matter lab"
+title: "el agente"
 draft: false
 weight: 5
 tags: ["AI", "LLMs", "Python", "LangChain"]
 summary: "Finetuning an AI agent framework designed to democratize quantum chemistry workflows."
 ---
 
-Under supervision of Professor Alán Aspuru-Guzik, I worked as an AI Researcher at The Matter Lab over the summer of 2025.
+Under supervision of Professor Alán Aspuru-Guzik, I was an AI Researcher at The Matter Lab over both summer 2025 and 2026.
 
 My work focused on the *El Agente* project, an AI agent framework developed for use in the automation and democratization of quantum chemistry workflows.
 
